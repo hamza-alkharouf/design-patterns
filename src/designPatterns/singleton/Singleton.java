@@ -1,4 +1,4 @@
-package designPatterns.singletonDesignPattern;
+package designPatterns.singleton;
 
 import java.util.Arrays;
 import java.util.Collections;

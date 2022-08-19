@@ -12,7 +12,6 @@ public class main {
         java.subscribe(ahmad);
         java.subscribe(sami);
         java.subscribe(rami);
-
         java.setAvailability(true);
 
     }
